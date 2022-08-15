@@ -1,5 +1,5 @@
 # Resume 简历
-[CHN](## 中文)/[ENG](## English Version) resume for Xingkun Yin
+[CHN](#中文)/[ENG](#English Version) resume for Xingkun Yin
 
 ## 中文
 ```
