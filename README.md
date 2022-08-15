@@ -1,5 +1,5 @@
 # Resume 简历
-[CHN](#中文)/[ENG](#English Version) resume for Xingkun Yin
+[CHN](#中文)/[ENG](#English_Version) resume for Xingkun Yin
 
 ## 中文
 ```
@@ -18,7 +18,7 @@
 2. Ceridian Dayforce, 2019 05 - 2020 09
 ```
 
-## English Version
+## English_Version
 ```
 Name: Xingkun Yin
 Email: xingkunyin at hotmail dot com
