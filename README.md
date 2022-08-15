@@ -17,7 +17,7 @@
 1. 亚马逊云服务（AWS）， 2023 05-09
 2. Ceridian Dayforce, 2019 05 - 2020 09
 
-完整简历见中文版简历pdf
+[完整简历见中文版简历pdf](https://github.com/troyyxk/resume/blob/main/Resume%20-%20Xingkun%20Yin%20-%20BU-%E4%B8%AD%E6%96%87.pdf)
 ```
 
 ## English_Version
@@ -37,5 +37,5 @@ Professional Experience:
 1. Amazon Web Service (AWS) 2023 May-September
 2. Ceridian Dayforce, 2019 May - 2020 September
 
-For a more detailed resume, please take a look at the resufe pdf file
+[For a more detailed resume, please take a look at the resufe pdf file](https://github.com/troyyxk/resume/blob/main/Resume%20-%20Xingkun%20Yin%20-%20BU.pdf)
 ```
